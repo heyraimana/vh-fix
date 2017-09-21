@@ -51,7 +51,8 @@ header {
 }
 
 section {
-  height: 70vh;
+  height: 50vh;
+  min-height: 200px;
   background: #202123;
 }
 
