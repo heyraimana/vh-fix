@@ -1,0 +1,111 @@
+/* Normalize */
+
+html {
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+header,
+section {
+  display: block;
+}
+
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+code {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+/* Custom Styles */
+
+body {
+  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  color: #fff;
+  line-height: 1.5;
+}
+
+header,
+section {
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+}
+
+header {
+  height: 60vh;
+  background-image: url(https://raimanadh.github.io/vh-fix/images/surface.jpg);
+}
+
+section {
+  height: 40vh;
+  background: #202123;
+}
+
+h1,
+h2 {
+  margin-top: 0;
+}
+
+h1 {
+  color: orange;
+  font-weight: bold;
+}
+
+code {
+  padding: 2px 4px;
+  vertical-align: text-bottom;
+  background: #202123;
+  color: #f8f8fb;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+p {
+  margin-bottom: 40px;
+}
+
+.download {
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid orange;
+  border-radius: 100px;
+  padding: 0.5em 1em;
+  transition: none 200ms ease-out;
+  transition-property: background;
+}
+
+.download:hover {
+  background: orange;
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  height: 100%;
+}
+
+.content {
+  position: relative;
+  max-width: 50em;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 20px;
+  height: 100%;
+}
+
+.height {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
