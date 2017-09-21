@@ -41,12 +41,12 @@ section {
 }
 
 header {
-  height: 60vh;
+  height: 85vh;
   background-image: url(https://raimanadh.github.io/vh-fix/images/surface.jpg);
 }
 
 section {
-  height: 40vh;
+  height: 70vh;
   background: #202123;
 }
 
