@@ -42,7 +42,7 @@ section {
 
 header {
   height: 100vh;
-  min-height: 500px;
+  min-height: 400px;
   background-image: url(https://raimanadh.github.io/vh-fix/images/surface.jpg);
 }
 
