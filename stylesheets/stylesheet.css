@@ -27,6 +27,10 @@ code {
 
 /* Custom Styles */
 
+html {
+  background: #0d0d0e;
+}
+
 body {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   color: #fff;
