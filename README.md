@@ -1,7 +1,7 @@
 # vh-fix
 An easy to use library that makes vh units work in iOS Chrome.
 
-vh-fix makes elements with vh units render more consistently in iOS Chrome. It's painless, tiny, and aims to be an easy choice for normalizing vh behavior. You can also [read more about how and why I built vh-fix](https://medium.com/@raimanadh/how-and-why-i-built-vh-fix-2bc0288eb5af).
+vh-fix makes elements with vh units render more consistently in iOS Chrome. It's painless, tiny, and aims to be an easy choice for normalizing vh behavior. You can also [read more about how and why I built vh-fix](https://medium.com/@heyraimana/how-and-why-i-built-vh-fix-2bc0288eb5af).
 
 ## Usage
 1. Download vh-fix
